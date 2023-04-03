@@ -38,3 +38,5 @@ doc/
 
 # typescript cache
 .tscache
+
+.direnv
